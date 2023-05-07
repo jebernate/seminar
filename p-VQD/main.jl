@@ -1,4 +1,4 @@
-using Yao, YaoExtensions, Printf, JSON
+using Yao, Printf, JSON
 
 include("pvqd_functions.jl")
 
